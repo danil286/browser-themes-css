@@ -1,2 +1,3 @@
-'https://raw.githubusercontent.com/danil286/themes/main/google-logo.jpg'
-https://raw.githubusercontent.com/danil286/themes/main/batman-arkham-knight-city-7038.jpg
+https://raw.githubusercontent.com/danil286/themes/main/%D1%84%D0%BE%D0%BD/google-logo.jpg
+
+https://raw.githubusercontent.com/danil286/themes/main/%D1%84%D0%BE%D0%BD/batman-arkham-knight-city-7038.jpg
