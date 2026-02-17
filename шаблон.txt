@@ -1,0 +1,30 @@
+/* === ФОН СТРАНИЦЫ === */
+/* (добавь свою ссылку сюда между ('') или возьми из файла LOGO.txt) */
+html, body {
+    background-image: url('') !important; /* <-- вставь ссылку на изображение */
+    
+    /* (не трогать! — настройки позиционирования и масштабирования) */
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+/* === ФОН БЛОКОВ (карточки, секции и т.д.) === */
+/* (затемнение: замени 0,0,0,0.04 на например 0,0,0,0.1 — чем больше последняя цифра, тем темнее) */
+div, main, article, section, form, nav, header, footer {
+    background-color: rgba(0, 0, 0, 0.04) !important; /* (здесь меняй прозрачность) */
+    border-radius: 8px !important; /* (скругление углов — можешь поиграться: 0px, 12px, 20px и т.д.чем больше цифра тем более круглые углы) */
+}
+
+/* === ЦВЕТ ТЕКСТА === */
+/* (текст оставь как есть, если не уверен — #e0e0e0 это светло-серый для контраста на тёмном фоне) */
+body, p, h1, h2, h3, h4, h5, h6, a, span, li, td, th {
+    color: #e0e0e0 !important;
+}
+
+/* === СКРЫТИЕ ЛОГОТИПОВ === */
+/* (убирает логотип "Google" — удали этот блок, если хочешь видеть логотип) */
+#hplogo, .lnXdpd, img[alt="Google"], .google-logo {
+    display: none !important;
+}
