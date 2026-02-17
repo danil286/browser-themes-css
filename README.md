@@ -32,7 +32,8 @@ Stylus→Менеджер стилей→слева значёк + →скопи
 либо возьми из файла LOGO там ссылки на готовые изоображения"
 после можешь поигратся с настройками в шаблоне всё описанно
 
-
+ссылки
+stylus https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
 
 
